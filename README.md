@@ -12,7 +12,7 @@ Blog responsivo para web, macOS, Android e iOS.
 
 Mobile
 
-![Preview](/mobileUI.png)
+![Preview](/mobileUI.png =250x)
 
 Web
 
